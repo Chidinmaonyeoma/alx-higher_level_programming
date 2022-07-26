@@ -82,4 +82,4 @@ class Rectangle:
 
     @classmethod
     def square(cls, size=0):
-        return cls(size, size)[C[D[A[D[D[A[A[A[A[A[A
+        return cls(size, size)
